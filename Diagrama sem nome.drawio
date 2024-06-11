@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" modified="2024-06-11T23:42:34.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Lkl51MhcFFsrTem4QTLj" version="24.5.2" type="github">
+  <diagram name="Página-1" id="e_oI3EaYv7EYoEqgRnUM">
+    <mxGraphModel dx="1050" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AQ3eEKEUHhNJNvu8NJzP-26" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="70" y="665" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3eEKEUHhNJNvu8NJzP-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="300" y="665" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3eEKEUHhNJNvu8NJzP-28" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="520" y="665" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3eEKEUHhNJNvu8NJzP-29" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="703" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3eEKEUHhNJNvu8NJzP-30" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="705" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3eEKEUHhNJNvu8NJzP-31" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="705" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3eEKEUHhNJNvu8NJzP-32" value="TocarMusica" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="95" y="675" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3eEKEUHhNJNvu8NJzP-33" value="ExibirPagina" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="675" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3eEKEUHhNJNvu8NJzP-34" value="Ligar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="545" y="675" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3eEKEUHhNJNvu8NJzP-38" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="735" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3eEKEUHhNJNvu8NJzP-39" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="735" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3eEKEUHhNJNvu8NJzP-40" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="735" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ3eEKEUHhNJNvu8NJzP-98" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="180" y="234" as="sourcePoint" />
+            <mxPoint x="395" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="180" />
+              <mxPoint x="395" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQ3eEKEUHhNJNvu8NJzP-99" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="419.5" y="231" as="sourcePoint" />
+            <mxPoint x="419.5" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="419.5" y="177" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQ3eEKEUHhNJNvu8NJzP-100" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="234" as="sourcePoint" />
+            <mxPoint x="460" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="184" />
+              <mxPoint x="460" y="184" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hWXKPgqp5Adsqg9P3pbZ-9" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Telefone&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;+ListaDecontatos: string&lt;br&gt;+historicoDeligações: string&lt;br&gt;+favoritos: string&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;+pesquisarContato: string&lt;br&gt;+criarContato: string&lt;br&gt;+tecladoNumerico: string&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hWXKPgqp5Adsqg9P3pbZ-10" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;ReprodutorMusical&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;+artista: string&lt;br&gt;+duração: float&lt;br&gt;+Albuns: string&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;+Play: int&lt;br&gt;+Volume: int&lt;br&gt;+trocarMusica&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hWXKPgqp5Adsqg9P3pbZ-11" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;navegador&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&amp;nbsp;+campodeTexto: string&lt;br&gt;+configurações: string&lt;br&gt;+favoritos: string&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;+sujestãoPesquisa: string&lt;br&gt;+paginaAnterio: int&lt;br&gt;+recarregarPagina: int&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="330" y="230" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hWXKPgqp5Adsqg9P3pbZ-12" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&amp;lt;&amp;lt;SmartPhone&amp;gt;&amp;gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;+menuApps: int&lt;br&gt;+barraNotificações: int&lt;br&gt;+barraNotificações: int&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;BotãoVol+: int&lt;br&gt;BotãoVol-: int&lt;br&gt;LigaDes&amp;amp;Bloq: int&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-50" width="180" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
